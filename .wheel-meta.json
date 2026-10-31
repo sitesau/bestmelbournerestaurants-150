@@ -1,0 +1,22 @@
+{
+  "wheel_id": 572,
+  "structure": "umbrella",
+  "slug": "bestmelbournerestaurants-150",
+  "project": "restaurants-melbourne-beginner-guide-8626a9979639c68ff24c398952",
+  "parent_t1_ref": "bestmelbournerestaurants-010",
+  "node_role": "buffer",
+  "money_target": "bestmelbournerestaurants.com.au",
+  "primary_kw": "restaurants melbourne beginner guide",
+  "intended_url": "https://sitesau.github.io/bestmelbournerestaurants-150/",
+  "tier": "T2",
+  "writeback_nonce": "cef4f1b1681bba3d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/restaurants-melbourne-010/",
+      "anchor": "https://sites-e470-1.web.app/restaurants-melbourne-010/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
